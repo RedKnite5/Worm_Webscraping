@@ -1,3 +1,3 @@
 # Worm_Webscraping
 
-program that webscrapes the webserial Worm
+This is a program that webscrapes the webserial Worm along with the result.
