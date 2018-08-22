@@ -1,0 +1,234 @@
+Interlude 14.5 (Bonus Interlude) | Worm
+“It’s just going to be another minute or two.  The data has to compile and upload.  It’s not my work, so I played it safe and went for the slowest, heaviest compression method that I could.  It’s going to take a bit.”
+“That’s fine.  Thank you.”
+Kid Win shifted position uncomfortably, falling silent.
+You don’t have to be intimidated.  I’m just a man.
+Legend stared out the window.  He wouldn’t miss this city.  There weren’t happy memories here, and there was little he was proud about.  Most of the time, he was able to feel that he’d made an impact, that the world was a better place for his being there.  That wasn’t the case here.
+“How long have you been in the Wards?” he asked, to make conversation.
+“Two years.”
+“I’ve seen your records.”
+Kid Win cringed.
+“No, don’t act like I’m going to say something bad.  The Deputy Director in charge of the Wards, I can’t quite remember his name, he had some glowing praise for your ability to engage with the public.”
+“Engage with the public?  I don’t remember doing much of that.”
+“Something about speeches to other youths at school?”
+“Oh.  That wasn’t a big deal.”
+“The guy who’s rating your performance seems to think it was.  Can’t quite place his name, the suits sort of start to blur in with one another-”
+“Deputy Director Renick,” Kid Win supplied.
+“Yes.  Thank you.  He seemed to think you connected with the crowd, and you did it better than any of your teammates. You were frank, open, honest, and you stood out because of how you handled yourself when the students started getting rambunctious and heckling you.”
+“Director Piggot yelled at me for drawing the gun.”
+“It was something that could have backfired very easily, but you struck the right tone and you defused the situation with humor.  I think that’s a good thing, and so did the staff at the school.  The teachers sent emails a few days after the event, commenting on the overall positive impact you had on the students, the hecklers included.  And when I say you, I mean you specifically.”
+Kid Win shrugged, tapping a few keys on the laptop to rotate through a series of progress bars and graphs.  “Nobody told me about that.”
+“That’s a shame,” Legend said, turning his gaze to the window to relieve some of the pressure his very presence seemed to put on Kid Win.  “The ability to manage yourself with the public is crucial if you intend to go on to make a career out of working with the Protectorate.”
+“It’s kind of weird, that someone as important as you are is making such a big deal out of an event I barely remember.”
+“I study the records of everyone I intend to work with, and I studied yours.  I try to make a note of individual strengths.  That event stuck in my mind when I was reading through your files.  It was a very easy mental picture to put together, especially the part with the gun.”
+Kid Win smiled a little.
+“You remind me of Hero.”
+The smile fell from Kid Win’s face.  He looked startled.  “Really?”
+“I imagine he was very much like you when he was younger.”
+Kid Win looked uncomfortable.
+“You can talk about it,” Legend assured him.  “It’s okay.  It was a long time ago that he passed.”
+“I sort of modeled myself after him.”
+Legend studied the boy.  Red and gold body armor and a red-tinted visor.  There were additions that seemed to be more recent, judging by the lack of wear and tear, but if he looked past those, if he imagined the boy with a helmet covering that brown wavy hair, replaced the red with blue chain mesh, he could see the resemblance.
+“I can see that.”
+“I didn’t mean to copy him, or to ride off his fame or anything.  I was younger when I started, I totally meant it to be respectful-”  Kid Win stopped as Legend raised a hand.
+“It’s okay.  I think he would be flattered.”
+Kid Win nodded, a little too quickly.
+“He was the first real tinker, you know.”
+“Before we knew tinkers have specializations,” Kid Win added.
+“I’ve thought about it.  The disintegration gun, the jetpack, the sonic weapons, the power sources and explosives that were surprisingly effective for their size.  I suspect his specialty tied into manipulating and enhancing wavelengths and frequencies.”
+Kid Win’s eyes went wide.  He glanced at the laptop.
+“I know enough other tinkers to know that look.  You just had a stroke of inspiration?”
+“Sort of.  More like a bunch of half-assed ideas all at once.”
+“Don’t let me distract you.  If you want to take a minute to make some notes on whatever came to mind, I won’t be offended in the slightest.”
+“It’s okay.”
+“You sure?”
+“Yeah.  I-” Kid Win paused.  “I guess I’d rather keep talking to you than write down ideas that probably won’t work out.”
+“Thank you.  I’d say you shouldn’t worry too much about trying to emulate Hero.  It’s heartening, if I had to put a word to the feeling, that you look up to him and carry on his legacy.  But you have your own specialization and your own strengths.”
+Kid Win nodded.  “I’m figuring that out.  I spent a long time trying to be like other tinkers and struggling.  Ninety percent of my projects just stopped before I finished it.  The stuff I finished, I finished it because it was simple.  Guns, the floating hoverboard… well, I used to have a floating hoverboard.  I sort of copied Hero’s approach.  ‘Board instead of jetpack, but I made the guns, tried a few disintegration rays.  Maybe part of the reason I finished that stuff was because I felt like I’d be insulting Hero by trying to copy his style and making a mess of it.”
+“Makes sense,” Legend spoke, primarily to show he was listening.
+“But lately I’ve started to relax about that.  Maybe it helps that we’ve been working as hard as we have.  I’ve been too tired to keep to the rules I thought I was supposed to follow.  Still have to spend time in the workshop, I think I’d go crazy if I didn’t, but I’m winging it more.  I’m trusting my instincts and spending less time using the computers to get the exact numbers and measurements.”
+“To help compensate for your dyscalculia?”
+“I didn’t know you knew about that.  I didn’t know the PRT knew about that.”
+“Dragon’s talents make for very comprehensive records, sorry.”
+Kid Win frowned, his expression changing fractionally as he stared down at the keyboard in front of him.  He seemed to come to terms with the idea, because he moved on. “Anyways, I think it’s working for me.  I’m getting the feeling that I do have a specialization, but it’s more of an approach than a particular field.  Equipment with multiple settings and uses, modular weapons, gear that’s adaptable to different situations, I guess?”
+“That’s fantastic.  The fact that you’ve struggled and then found your strengths the hard way could be an asset.”
+“An asset?”
+“If you wind up leading the Wards or a team in the Protectorate, it means you’ll be better equipped to help out teammates who are having their own problems.”
+“I’d be horrible in a leadership position.”
+“Hero said the same thing, and I think we’ll both agree that he was wrong.”
+That seemed to give Kid Win pause.
+“Think about it.”
+“Okay,” Kid Win replied.  “Not that I’m not majorly grateful that you’re giving me the pep talk, but you said you were in a bit of a hurry and I think we’re done here.”
+“The compiling is done?”
+“I could refine it further, try to give you some additional features, but the coding and the hardware I’m working with here is so tightly structured that I think I’d do more harm than good.  It’s like the techie equivalent of trying to put toothpaste back in the tube after you’ve squeezed it out… you can’t, so maybe you try to make more tube that sticks out of one side, but you keep doing it and you wind up with this kludgy mess that you can’t even use for its original purpose.  For getting toothpaste.”
+“I think I understand what you mean.  Thank you for this.  It’s already uploaded?”
+“Yeah, and it was my pleasure, really.” Kid Win smiled.
+Legend stood and stretched a little.
+The goodbyes had already been made and he’d had his meeting with Emily.  Business was wrapped up here.  He’d called home to let Arthur know he wouldn’t make it to dinner but that he hoped to be back before midnight.
+A light smile touched his face.  He even felt a little giddy at the thought of getting home, wrapping Arthur in a hug.  Growing up, he’d never thought that he’d feel giddy about his husband after six years of marriage.
+
+But he had something to take care of first.  The notion put a damper on his pleasant mood.
+“I’m going to go, then.  You and I,” he promised Kid Win, “Should talk again sometime.  You can tell me if you’ve figured out your specialty, and if you’re leading a team.”
+“Maybe the next time you’re in Brockton Bay?”
+“Maybe.”  Legend smiled, but he was thinking, does he know?  This whole region might be condemned.
+Maybe Kid Win was being optimistic.
+Legend turned and opened a window, then let himself float through.  He took a second to get his bearings, to inform himself of which direction was up, down, north, east, south and west, then he took off.
+Powers were classified into categories, and the ‘breaker’ classification was used to mark those powers which were limited to one’s own body and their immediate vicinity.  Though it had initially been used to cover individuals who could make themselves stronger, denser, larger or change the materials they were made of, it was slowly expanding to include others.  There was a theory that was gaining traction, suggesting that the breaker classification was one of the most common powersets, if not always the most pronounced.  Innumerable people with powers had also adapted innate defenses that kept their own powers from harming themselves.  Pyrokinetics tended to be resistant to flame. There were automatic shutoffs, biological and mental, for various other powers.  Even beyond that, there were other adaptations that were so subtle as to be almost undetectable.  His weren’t.
+Legend’s flight powers let him accelerate to a speed that exceeded sound and continue accelerating, to no hard limit.  The soft limit was that he had breaker powers that kept the acceleration from tearing him to shreds, altering his body into something else entirely as he gained speed.  The drawback to this was that his brain also shut down on a cognitive level as the transformation occurred.  He had never let himself go so fast that he lost the ability to consciously control his movements.
+There were other benefits too.  He was better at registering and processing light waves, regardless of which state he was in.  He could see with perfect clarity up until the point that an obstactle intervened or the atmosphere occluded his vision.
+If an opponent attacked and struck him, he instinctively transitioned into his energy form for a split second.  In that state, he absorbed energy of a variety of kinds, including the kinetic energy that was transferred with a punch or with a bullet.  His opponents were forced to whittle him down, each attack only a fraction as effective as it might otherwise be.  Even then, a share of that small amount of damage was healed a second later as he used the absorbed energy to mend his body.  Conversely, his enemies could try to hit him with enough speed and force that even a hundredth of a second of contact was sufficient to take him out of the fight.  Leviathan and Behemoth had managed to land blows of that magnitude.
+Siberian has as well.  He set his jaw and increased his speed a notch.
+He traveled over the Atlantic Ocean, moving so fast that the water appeared to be one flat plane.  His thoughts became a blur, and he was forced to focus on his destination, letting all other thoughts and doubts fall by the wayside.
+It was refreshing, in a way, cleansing himself of the responsibilities and the thousands of problems he was forced to handle as the leader of the Protectorate.  Still, it always scared him just a little.
+It took him only an instant to reach a complete stop.  He let himself settle down into his real body once more.
+He’d wondered sometimes if his ability to fly was meant for travel on an interstellar level.  What if he kept accelerating?  His breaker power would let him weather the void of space, his ability to see would be that much more powerful if there was no atmosphere to occlude his vision over miles… even the boredom of traveling for years was nothing if his conscious mind shifted into a rest state.
+Not that he’d ever test it.
+He’d absorbed light, heat and ambient radiation while he flew, and he felt restored.  Even the mildest wear and tear had been tended to, his body restored to peak condition.
+His mind was another matter, his emotions.  It was like waking up in a warm bed, the man he loved beside him, only to experience a sinking feeling as he came to dread the coming day.
+He drifted closer to the oil rig, and settled down on a fence, using a touch of his flight ability to stay balanced.  In every direction, as far as the eye could see, there was only water.
+“Any time now,” he said.
+It began as a pale square in mid-air, then unfolded rapidly, three-dimensional.  When it opened up further, the interior of a building loomed in mid-air, the exterior absent.
+He floated forward and set foot on the white tile of the hallway.  He felt the distortion as the space shifted, felt the rush of wind as air pressure adjusted.  It took only a couple of seconds.  When he glanced over his shoulder, the oil rig was gone.  There was only more hallway behind him.
+He walked onward, confident in his ability to navigate the maze of rooms and corridors.
+When he pushed open the double doors and stepped into the conference room, there were a few looks of surprise.
+“Legend,” the Doctor spoke, “I thought you were occupied in Brockton Bay.”
+“Jack escaped.”
+“That’s… really unfortunate,” Alexandria said.
+“Quite,” the Doctor replied.
+Legend glanced around the room.  Alexandria leaned back in her chair, her helmet on the table in front of her, a star-shaped scar at the corner of one eye.  Beautiful, Legend was sure, but more in the way a lioness was beautiful.  In her black and gray costume, she was intimidating, her expression regal.
+Eidolon was the opposite.  He had lowered his hood and removed his glowing mask, revealing a middle-aged man with thick eyebrows, thinning hair and heavy cheeks.  He looked more like an average family man who was getting dressed up as Eidolon for a costume party than he looked like Eidolon himself.
+There were others around the table.  The Doctor: dark-skinned, hair tied into a prim bun with chopsticks stuck through it, wearing a short white dress beneath a white lab coat.  The Number Man, with his laptop set in front of him, looking more like a businessman than one of the most influential and lesser-known parahumans on the planet.  There was also the woman in the black suit, who had never introduced herself or been introduced by name.  Whenever Legend came here with the others, the woman was there with the Doctor.
+Insurance, he thought.  The Doctor thinks that woman can face us if we turn on her.
+Would she win?  Legend harbored doubts.  He’d met a lot of powerful individuals over the course of his career, and he’d learned how to measure them.  This woman didn’t relax for an instant, where someone who was assured of victory would be more willing to let down her guard.  More likely that she’s supposed to stall or stop us if there’s a problem, buying the doctor time to escape.
+“Jack escaped.  What about the other Nine?” the Doctor asked.
+“We suspect that Bonesaw and Siberian also escaped, with Hookwolf as a new member of their group.”
+“I see.”
+“It’s unusual for you to show any interest in what’s going on outside the realm of your business and research.  Any reason for the curiosity?”
+The Doctor smiled. “Hard to keep track of what goes on beyond these walls, sometimes.”
+Legend nodded.  He took a seat to Alexandria’s right.  He considered for a moment, then spoke.  “There are some things that concern me.”
+“Is this tied to why you came here today?”
+“Yes.  Let me begin by saying that there’s apparently a precog in Brockton Bay that’s pretty damn certain that the world’s going to end shortly.”
+“Precogs are notoriously unreliable.  I tell many of my customers that when they express interest in seeing the future.  I think I even told you.  Or was it Alexandria that I discussed it with?”
+“It was,” Alexandria replied.
+“You’re right,” Legend said, “Most precogs are vague.  They have to be, because the future is vague.  But all reports point to this precog being very specific.  Jack Slash was mentioned as the catalyst for an event that occurs in two years.  More specifically, she said this occurs if Jack escaped Brockton Bay alive, which he did.”
+There were nods around the table.
+“What do you mean when you say the world ends?” Eidolon asked.
+“Thirty-three to ninety-six percent of the population dies in a very short span of time.  I assume the aftermath of this scenario leads to more deaths in the long run.”
+The Number Man spoke.  “Depending on the circumstances of death, the demise of even one in three individuals would lead to further casualties.  Lack of staff for essential services and key areas, health, atmospheric and ecological effects of decomposition on a massive scale, destabilized societal infrastructure… The best case scenario is that Earth’s population drops steeply over twenty years, until it settles to forty-eight point six percent of where it currently stands.  Three billion, three hundred and ninety-one million, eight hundred and three thousand, five hundred and four.  Give or take.”
+“That’s the best case scenario?” Alexandria asked.
+The man shrugged.  “It’s unlikely it will occur.  The bare minimum of people would have to die, there couldn’t be any bodies, and there wouldn’t be anything left unattended that could cause uncontrolled fires or nuclear incidents.  If I were to ballpark a number, talking about events that could kill one-third to nearly all of the world’s population, I’d say roughly seventy-two percent of the earth’s population are likely to die.  That leaves one billion, nine hundred and fifty million alive.  More than half of those individuals would die over the following twenty years, and more than half of those who remain would die in the ten years following that.  Keeping in mind these are estimates, of course.”
+“Of course,” The Doctor said, “Precogs are unreliable.  I’m surmising this girl doesn’t know exactly how this occurs?”
+“No.  Her employer didn’t say anything on the subject.”
+“We’ll take measures,” Eidolon said.  “Evacuation, we’ll also push for automatic shutdown controls on power grids and nuclear facilities.  With the Endbringers out there, it would be sensible to do it anyways.  We can reduce the potential damage.”
+“Unless,” Alexandria said, “The numbers the precog provided are already accounting for us having this conversation and taking the extra measures.  If she does view the future, it’s very possible she saw this very meeting and everything that followed, in a manner of speaking.”
+That was sobering.
+“We’ll do it anyways, of course,” Eidolon said.
+Legend and Alexandria nodded.
+“Let’s remember,” the Doctor said, “The numbers already pointed to an endgame situation at the twenty-three year mark.  If the Endbringers continue doing the damage they’ve been doing at the current rate, things won’t be sustainable.  We’ll be forced to withdraw from damaged and dangerous areas, populations will condense, the Endbringers attack those pockets…  and that’s without considering the possibility that they achieve something big in the interim.  We’ve talked about the crisis scenarios: Behemoth triggering a nuclear winter, Leviathan obliterating or tainting the world’s renewable water supply.”
+“You’re saying we’re already facing an end of the world situation,” Alexandria said, “And this is just accelerating the timetable.”
+“Yes.  Any measures we take are still vital.  They’ll help here, with this scenario, but if it never occurs, it will still help against the Endbringers.”
+“Are we assuming the Endbringers are at the core of this end-of-the-world scenario?” Eidolon asked.
+“Likely,” Alexandria said, “But let’s not rule anything out.”
+“Provided this is really occurring,” the Doctor spoke.
+“We can’t afford to say it’s not,” Legend said.  “You have precogs among your staff and customers?”
+“Some,” The Doctor answered.  “I can ask them about this end of the world scenario.”
+Legend nodded.  “Good.  Eidolon, you want to try your hand at it?”
+“If my power lets me.  It only gives me what it thinks I need, not what I want.”
+“We need all the help we can get.  Let’s see if we can’t figure out how this happens, so we can stop it or mitigate the damage.  There’s a lot of capes out there with the thinker classification.  Get the word out, call in favors, offer favors.  Anything to get more information on this.”
+There were nods and noises of agreement from his fellow Protectorate members and the Doctor.
+Legend quietly cleared his throat, glancing around the table.  “Speaking of great minds… there was another point I wanted to address, that came up during my stay in Brockton Bay.”
+He had their attention.
+“Alexandria, I expect you read the reports already.  You didn’t seem that surprised when I talked about the precog and her end-of-the-world scenario, you’ve probably read up on my notes here.”
+Alexandria had originally named herself after the Library of Alexandria, though she’d ceased mentioning that, choosing to leave enemies in the dark instead.  As strong as she was on a physical level, her mind was equally formidable.  She never forgot a detail, absorbed information quickly, reading two pages of a book with a glance, and she learned quickly, retaining everything she picked up.  She knew most commonly spoken languages, no less than ten styles of martial arts and she could match some of the best non-tinkers in the world when it came to computers.  Not only was she rated well in the brute classification, but she held high scores in the mover and thinker categories.
+“I read what you provided, though I’m not sure what you’re referring to specifically.”
+“Siberian.”
+He saw a change in her expression, saw Eidolon flinch as if he’d been slapped.
+“I’ll explain for those of you who lack access to the PRT records or the time to peruse them.  Siberian is not a brute-class cape.  Siberian is a ‘master’, and the striped woman is a projection.  I caught a glimpse of the man who is creating the projection before they retreated.”
+“And?”
+“And he had Cauldron’s mark tattooed on the back of his left hand, a swan on his right.”
+With the exception of himself, the Number Man and the woman in the suit, everyone present reacted with surprise.
+“You don’t think that was William Manton?”  Alexandria asked.  “But why the mark on his right hand?”
+“I don’t know.  It doesn’t fit on a lot of levels.  A top parahuman researcher becoming one of the Nine?”
+“It happened to Alan.  To Mannequin,” Eidolon said, his voice quiet.
+“There’s nothing in the records,” Alexandria said, “Nothing saying he was present at any of the places the quarantine protocol was put in effect.”
+She would know.  She read every record, could call them to mind with perfect accuracy.
+“He could have stolen someone’s identity.”
+Alexandria nodded, “True.”
+“We have confirmation he’s alive,” Eidolon said, his voice quiet.  “We suspected, but-”
+“We made assumptions, and we were way off base.  That’s what concerns me.”  Legend leveled a hard look at the Doctor.  “See, we’ve been going by the assumption that William Manton, from the time he left Cauldron to the present day, has been continuing his work.  We’ve been assuming he’s traveling across the world, experimenting on human subjects, giving them powers with physical mutations as a side effect, then releasing the victims back into society with Cauldron’s symbol tattooed on their bodies.  Or at least, that’s what you told us.”
+“You’re implying I lied?” the Doctor asked.  She didn’t look bothered in the slightest.
+“I’ve looked at the timelines.  It’s not likely that William Manton could be conducting experiments to give some poor girl tentacles in Illinois at the same time Siberian’s busy attacking people in Miami.  Not to mention he barely looked capable of taking care of himself, let alone conducting research.”
+He glanced at the others.  Eidolon’s brow was creased in concern, while Alexandria looked pensive.
+“The pattern doesn’t fit,” he said, to drive the point home.  He looked at the Doctor, “Which leaves me to wonder just who is conducting experiments on human subjects.”
+“We have no need for human experimentation.  The Number Man can calculate the odds of success for a given formula.”
+“Maybe that’s the case.  But just who is conducting experiments on human subjects, who knows enough about Cauldron to tattoo or brand them with the mark while simultaneously having access to these kinds of resources?”
+“It’s not us,” the Doctor spoke.
+Legend stared at her, studying her.  “And you don’t know anything about how William Manton is connected to all this?”
+“I’m as mystified as you are.  If it would assuage your suspicions, you can examine this complex,” the Doctor suggested.
+“You and I both know this place is far too large to explore in one lifetime,” he answered.
+“True.”
+“And if we were to surmise that you’re the culprit here, there’s nothing saying you couldn’t have your doormaker maintain a path to another alternate reality where you have captives stashed away.  It would even explain why there haven’t been any real missing persons cases that we can link to the case-fifty-threes, if you’re simply snatching them from another reality and depositing them in our reality when you’re done.”
+She spread her arms wide.  “I don’t know what I can say to convince you.”
+“You trust me, don’t you?” Alexandria asked.
+“Yes,” Legend said.
+“I’ve trained myself in kinesics.  I can look at a person’s face and body language and know if they’re lying.  And I can tell you the Doctor is telling the truth.”
+Legend sighed.  “Right.”
+“We’re okay, then?” the Doctor asked.
+Legend nodded.  “I’m sorry to accuse you.”
+“It’s understandable.  This situation doesn’t make a lot of sense.”
+“I can’t add anything here, and my power’s not volunteering anything that could help to solve this particular mystery,” Eidolon spoke.  “I guess we have yet another unanswered question on our hands.”
+Legend sighed, “More than one.  William Manton and his link to Siberian, the tattoo on his right hand, our end of the world scenario and the role Jack plays as the catalyst.  Too many to count.”
+“None of this has to be addressed today,” Alexandria said.  “Why don’t you go home?  We’ll consider the situation and come up with a plan and some likely explanations.”
+Legend nodded.  The thought of holding Arthur and Keith in his arms energized him.
+The Doctor turned to Eidolon, “You want another booster shot?”
+“Probably another Endbringer attack coming up, it’s best if I’m in top form.”
+While the others talked and planned, Legend stood and left without a farewell.
+An opening between realities unfolded before he was half of the way down the alabaster white hallway.  He stepped through the opening to the oil rig, and then began his flight back to New York City.
+But he didn’t go home.
+Instead, Legend descended on the rooftop of the NYC Protectorate offices.  A tinker-made scanner verified who he was and opened the doors for him in time for him to walk through.
+He nodded a greeting to everyone he passed.  When people asked him how things had gone, he offered them a response that was polite but short enough that it was clear he wasn’t looking for further conversation.
+He reached his office and closed the door.
+He was careful to start up a virtual operating system preloaded with the standard PRT databases and software.  Nothing that would leave a trace on his regular OS.  He unplugged the fiber-optic cables and disabled the wireless.
+The precautions were little use if he was already being watched, but it made him feel better.
+Once his computer was isolated from outside influences, he withdrew a USB cable from one drawer, plugging one end into the keyboard.  He reached up to one ear and withdrew an earbud.  The other end of the USB cable connected to it.
+ASCII art of Kid Win’s face popped up as the earbud connected to the computer, along with the text, ‘thank you’.
+He couldn’t bring himself to smile.
+Problems of self-confidence aside, Kid Win had produced an interface that was easy to use.  Legend clicked on the yellow button and waited.  Voices played from the computer’s speakers.  He adjusted the volume and listened.
+“We suspect that Bonesaw and Siberian also escaped, with Hookwolf as a new member of their group.”
+“I see.”
+“Any reason for the curiosity?”
+“Hard to keep track of what goes on beyond these walls, sometimes.”
+Text appeared, transcribing what was being said.  The program paused, the image of the yellow button popping back out.  A red word appeared below the last statement: LIE.
+A vague lie, but not a damning one.  His pulse was pounding as he hit the waiting yellow button to resume the record.
+“We have no need for human experimentation.  The Number Man can calculate the odds of success for a given formula.”
+LIE.
+He clicked again.
+“…Who knows enough about Cauldron to tattoo or brand them with the mark while simultaneously having access to these kinds of resources?”  His own voice was the one playing from the speakers.
+“It’s not us,” the Doctor’s voice answered his.
+LIE.
+He sat staring at the screen, horrified.
+Cauldron had given him his powers, had given him what he needed to be at the very top, to lead the largest collection of superheroes in the world.  They hadn’t wanted much in exchange.  He kept an eye out to make sure nobody got too curious about Cauldron, diverted them if they did.  He’d greased the wheels for some of Cauldron’s top customers.  He was also ready to defend Cauldron if and when it became public knowledge.  It was for the greater good, he told himself.  There was no way for Cauldron to operate otherwise, lest the world’s governments fight over the ability to create whole armies of people with powers and interfere with the organization’s ability to operate.
+It would operate, he knew, it obviously wasn’t in a location where it could be raided or seized by military forces, but it wouldn’t be able to reach nearly as many people, and capes would come under scrutiny with the possibility that they’d purchased their powers.
+He’d committed to this because Cauldron was essential.  With the rise of the Endbringers and threats like the Slaughterhouse Nine, the world was in need of heroes.  Cauldron produced more heroes than villains, because there was none of the trauma of a trigger event to throw them off.  Even for those individuals who turned to crime, Cauldron was able to leverage the favors that were part of the contract in order to guide their path.  More superheroes meant better chances for everyone when it came to fighting the Endbringers and dealing with the big threats.
+It struck him that this wasn’t necessarily true.  If the Doctor had lied about human experimentation, she could have lied about those details as well, too.
+Human experimentation on a large scale.  Unwitting, or perhaps unwilling to connect the dots, he’d helped it happen in a way.
+His hand shook as he reached for the mouse.  He clicked the button once more, hoping there would be something he could use to convince himself that this was a mistake.  A false positive, a clue that Cauldron was really a force for good after all.  Hadn’t Armsmaster said that his lie detection system was imperfect?  Or maybe Kid Win had generated errors in the code.  The alterations had been minor but comprehensive:  Legend hadn’t wanted to be informed in real-time about the lies, lest he give something away.
+“And you don’t know anything about how William Manton is connected to all this?”
+“I’m as mystified as you are.”
+LIE.
+He knew what came next, with the conversation fresh in his memory.  He didn’t want to press the button again, but there was little choice.
+“I’ve trained myself in kinesics.  I can look at a person’s face and body language and know if they’re lying.  And I can tell you the Doctor is telling the truth.”
+The red text popped up as the last four and a half words appeared.  LIE.
+Alexandria knew.  Of course she had.  Her ability to read people, her vast troves of knowledge, her ability to see patterns.  And she was the most willing of their group to take the hard, ugly road.  Had been since Siberian had hospitalized her.
+Click.
+His own voice.  “I’m sorry to accuse you.”
+LIE.
+Had he been lying?  He supposed he had.  He didn’t like the Doctor, and he hadn’t truly felt sorry for his suspicions.  Ever since he’d seen William Manton with the Slaughterhouse Nine, he’d harbored doubts about what was going on.
+Those doubts had become quiet conviction after he’d gone to see Battery in the hospital.  One of Bonesaw’s mechanical spiders had cut her suit.  He knew exactly the kind of disorientation, hallucination and waves of paranoia she would have experienced as the gas took hold.  While she reeled and tried to get a grip on reality, she’d likely left herself open for further attacks.  Whatever the case, one of the spiders had injected her with a poison Bonesaw had devised.
+Her death had been slow, painful and inevitable.  It had been engineered to strike those notes in a way that millions of years of evolution had yet to refine a plant’s toxin or an animal’s venom.  Lying in the hospital bed, still delirious, Battery had used halting sentences to tell him about Cauldon, about buying her powers, and about Cauldron asking her to help Siberian and Shatterbird escape.  She’d planned to pursue the Nine, to offer assistance and then kill one or both of the villains.  Battery had begged him for affirmation that she’d tried to do the right thing, that he would find the answers she didn’t.  He’d reassured her the best he could.
+She’d died not long after.
+He almost couldn’t bring himself to click the yellow button again.  Alexandria had been lying to him.  And that only left…
+Click.
+Eidolon’s voice came from the speakers.  “I can’t add anything here, and my power’s not volunteering anything that could help to solve this particular mystery.  I guess we have yet another unanswered question on our hands.”
+The word was in red letters on the screen.  It could have been his own pulse behind his retinas, but the letters seemed to throb with a heartbeat of their own.  LIE.
+“All lies,” Legend whispered the words to himself.
