@@ -5,22 +5,26 @@
 import os
 import re
 
-def count(_word, name=False):
-	path = r"C:\Users\Max\Documents\Python\Worm_Webscraping"
+def count_list(it, word):
+	m = lambda a: re.match(a, (word + r"\W".encode("utf-8")))
+	l = tuple(filter(m, it))
+	return len(l)
+
+def count(_word):
+	path = os.path.dirname(os.path.abspath(__file__))
 	files = os.listdir(path)
 	textfiles = [i for i in files if i.endswith(".txt")]
 	word = bytes(_word, encoding="utf-8")
-	
+
 	total = 0
 	for i in textfiles:
-		with open("{path}\\{file}".format(path=path, file=i), "rb") as file:
+		with open(os.path.join(path, i), "rb") as file:
 			for line in file.readlines():
 				words = line.split()
-				total += words.count(word)
-				if name:
-					total += words.count(word + b"'s")
+				total += count_list(words, word)
+
 	return total
 
 
-x = count("Taylor", name=False)
+x = count("Taylor")
 print(x)
