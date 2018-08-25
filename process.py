@@ -6,25 +6,30 @@ import os
 import re
 
 def count_list(it, word):
-	m = lambda a: re.match(a, (word + r"\W".encode("utf-8")))
+	m = lambda a: re.match(word + r"\W*", a)
 	l = tuple(filter(m, it))
 	return len(l)
 
-def count(_word):
+def count(word):
 	path = os.path.dirname(os.path.abspath(__file__))
 	files = os.listdir(path)
 	textfiles = [i for i in files if i.endswith(".txt")]
-	word = bytes(_word, encoding="utf-8")
 
 	total = 0
+	locations = []
 	for i in textfiles:
 		with open(os.path.join(path, i), "rb") as file:
-			for line in file.readlines():
-				words = line.split()
-				total += count_list(words, word)
+			for linenumber, line in enumerate(file.readlines()):
+				if linenumber > 0:
+					textline = line.decode("utf-8")
+					words = textline.split()
+					c = count_list(words, word)
+					if c:
+						locations.append((i, linenumber))
+						total += c
 
 	return total
 
 
-x = count("Taylor")
+x = count("Amelia")
 print(x)
